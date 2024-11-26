@@ -1,0 +1,30 @@
+#cookies {
+    background-color: grey;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    width: 50%;
+}
+button {
+    background-color: black;
+    border-radius: 8px;
+    color: white;
+    margin: 20px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+}
+
+button:hover {
+    border-color: red;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    text-align: center;
+}
